@@ -1,0 +1,12 @@
+{
+    "name": "Camara_Frigorifica",
+    "description": "Gemelo Digital de cámara frigorífica en Node-RED",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}
