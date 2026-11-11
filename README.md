@@ -1,5 +1,6 @@
 Camara_Frigorifica
 ==================
+Proyecto de IoT de camara frigorifica - Kelly Cardenas
 
 Gemelo Digital de cámara frigorífica en Node-RED
 
